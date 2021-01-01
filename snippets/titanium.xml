@@ -37,6 +37,7 @@
   <project path="external/libcxx" name="external_libcxx" remote="tos" />
   <project path="external/libjpeg-turbo" name="external_libjpeg-turbo" remote="tos" />
   <project path="external/libpng" name="external_libpng" remote="tos" />
+  <project path="external/motorola/faceunlock" name="external_motorola_faceunlock" remote="tos-gitlab" />
   <project path="external/selinux" name="external_selinux" remote="tos" />
   <project path="external/sqlite" name="external_sqlite" remote="tos" />
   <project path="external/tinycompress" name="external_tinycompress" remote="tos" />

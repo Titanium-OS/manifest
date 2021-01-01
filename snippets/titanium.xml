@@ -19,9 +19,9 @@
            fetch="https://github.com/TitaniumOS-Devices"
            revision="refs/heads/eleven" />
 
-  <remote name="xtended-gitlab" 
-           fetch="https://gitlab.com/project-xtended"
-           revision="refs/heads/xr" />
+  <remote name="tos-gitlab" 
+           fetch="https://gitlab.com/SonalSingh18"
+           revision="refs/heads/eleven" />
 
   <!-- Device repos -->
   <project path="device/titanium/sepolicy" name="device_titanium_sepolicy" remote="tos" />
@@ -72,7 +72,7 @@
   <project path="manifest" name="manifest" remote="tos" />
   <project path="vendor/titanium" name="vendor_titanium" remote="tos" />
   <project path="vendor/extras" name="vendor_extras" remote="tos" />
-  <project path="vendor/google/gms" name="vendor_google_gms" remote="xtended-gitlab" />
+  <project path="vendor/google/gms" name="vendor_google_gms" remote="tos-gitlab" />
 
   <!-- CAF Hals -->
   <project path="hardware/qcom/sm8150/display" name="platform_hardware_qcom_sm8150_display" groups="pdk" remote="github/hentaiOS" />

@@ -23,6 +23,10 @@
            fetch="https://gitlab.com/SonalSingh18"
            revision="refs/heads/eleven" />
 
+  <remote name="proton-clang"
+           fetch="https://github.com/kdrag0n"
+           revision="refs/heads/master" />
+
   <!-- Device repos -->
   <project path="device/titanium/sepolicy" name="device_titanium_sepolicy" remote="tos" />
   <project path="device/qcom/sepolicy-legacy" name="device_qcom_sepolicy-legacy" remote="tos" />
@@ -104,6 +108,7 @@
   <!-- Prebuilt repos -->
   <project path="prebuilts/abi-dumps/vndk" name="prebuilts_abi-dumps_vndk" clone-depth="1" remote="tos" />
   <project path="prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8" name="prebuilts_gcc_linux-x86_host_x86_64-linux-glibc2.17-4.8" remote="tos" clone-depth="1" />
+  <project path="prebuilts/clang/host/linux-x86/clang-proton" name="proton-clang" remote="proton-clang" />
 
   <!-- Providers repos -->
   <project path="packages/providers/DownloadProvider" name="packages_providers_DownloadProvider" remote="tos" />

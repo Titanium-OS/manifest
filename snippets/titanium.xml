@@ -97,6 +97,7 @@
   <project path="packages/apps/Messaging" name="packages_apps_Messaging" remote="tos" />
   <project path="packages/apps/Nfc" name="packages_apps_Nfc" remote="tos" />
   <project path="packages/apps/PermissionController" name="packages_apps_PackageInstaller" remote="tos" />
+  <project path="packages/apps/Plugins" name="packages_apps_Plugins" remote="tos" />
   <project path="packages/apps/Settings" name="packages_apps_Settings" remote="tos" />
   <project path="packages/apps/SettingsIntelligence" name="packages_apps_SettingsIntelligence" remote="tos" />
   <project path="packages/apps/Stk" name="packages_apps_Stk" remote="tos" />

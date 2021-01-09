@@ -96,6 +96,7 @@
   <!--<project path="packages/apps/Launcher3" name="packages_apps_Launcher3" remote="tos" />-->
   <project path="packages/apps/Messaging" name="packages_apps_Messaging" remote="tos" />
   <project path="packages/apps/Nfc" name="packages_apps_Nfc" remote="tos" />
+  <project path="packages/apps/OmniStyle" name="packages_apps_OmniStyle" remote="tos" />
   <project path="packages/apps/PermissionController" name="packages_apps_PackageInstaller" remote="tos" />
   <project path="packages/apps/Plugins" name="packages_apps_Plugins" remote="tos" />
   <project path="packages/apps/Settings" name="packages_apps_Settings" remote="tos" />

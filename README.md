@@ -47,12 +47,15 @@ Build command is:
 Inheriting Gapps in build:
 -------------------------
 • To include Gapps in your builds, execute:
+
      export WITH_GMS=true
      
 • For including stock gapps packages, execute:
+
      export TARGET_INCLUDE_STOCK_GAPPS=true
      
 • For including pixel live wallpapers, execute:
+
      export TARGET_INCLUDE_LIVE_WALLPAPERS=true
 
 
